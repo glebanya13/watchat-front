@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875145628698",
+    "project_id": "chatzy-web-app-115df",
+    "storage_bucket": "chatzy-web-app-115df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875145628698:android:085b89c3b3c6bb98f915a3",
+        "android_client_info": {
+          "package_name": "com.example.watchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875145628698-f4uerpkt80l0tlgcd0oj8gqupl28i1c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPPYB9AW72_OiqlS_hFuUTZgnjrCzdWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875145628698-f4uerpkt80l0tlgcd0oj8gqupl28i1c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
