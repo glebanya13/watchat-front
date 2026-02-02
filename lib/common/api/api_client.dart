@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ApiClient {
-  static const String baseUrl = 'http://62.217.178.166:3000';
+  static const String baseUrl = 'https://watchat.ru/api';
   
   static String? _token;
   static bool _initialized = false;
